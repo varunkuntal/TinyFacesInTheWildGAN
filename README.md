@@ -51,7 +51,7 @@ as experiments.
 ### selfie with many people
 This is the same image as one in [the authors' repo](https://github.com/peiyunh/tiny)[1].
 
-![selfie](https://github.com/cydonia999/Tiny_Faces_in_Tensorflow/blob/master/images/selfie.jpg?raw=true)
+![selfie](https://github.com/varunkuntal/TinyFacesInTheWildGAN/blob/master/images/selfie.jpg)
 
 [Original image](https://github.com/peiyunh/tiny/blob/master/data/demo/selfie.jpg)
 
