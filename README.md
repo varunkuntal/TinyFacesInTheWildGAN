@@ -1,3 +1,10 @@
+# The Repository consists of two parts:
+1. Implementation of [Tiny Faces in the wild with Generative Adversarial Networks](https://openaccess.thecvf.com/content_cvpr_2018/papers/Bai_Finding_Tiny_Faces_CVPR_2018_paper.pdf) in the [Jupyter Notebook](https://github.com/varunkuntal/TinyFacesInTheWildGAN/blob/master/TinyFacesGAN_implementation.ipynb) using Keras with Tensorflow as backend.
+2. Tiny face detector in Tensorflow evaluated using 
+
+
+
+
 # Tiny Face Detector in TensorFlow
 
  A TensorFlow port(inference only) of Tiny Face Detector from [authors' MatConvNet codes](https://github.com/peiyunh/tiny)[1].
